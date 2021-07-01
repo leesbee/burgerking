@@ -14,4 +14,4 @@ https://www.burgerking.co.kr/#/home 의
 - DELIVERY ORDER 버튼 hover시 반응함
 
 
-### demo: https://
+### https://leesbee.github.io/burgerking/
